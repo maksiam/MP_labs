@@ -96,8 +96,8 @@ PenaltyReturnTypeOnItsOwnLine: 200
 PointerAlignment: Left
 RawStringFormats: 
   - Language:        Cpp
-    Delimiters:      
-      - cc
+    Delimiters:
+      - cc      
       - CC
       - cpp
       - Cpp
